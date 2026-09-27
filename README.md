@@ -373,3 +373,11 @@ The project includes:
 
 cleaned_orders.csv
 data_quality_exceptions.csv
+
+# 👩‍💻 Author
+## Siti Sarah Binti Mohd Affandi
+## MSc Operational Research and Analytics
+### Aspiring Data Analyst
+
+# GitHub:
+[https://github.com/saraaffandi-design](https://github.com/saraaffandi-design)
