@@ -332,3 +332,44 @@ Customer-Order-Data-Cleaning/
 # Technologies
 
 Python · Pandas · NumPy · Jupyter Notebook · VS Code · Data Profiling
+
+## How to Run
+
+### 1. Clone the Repository
+
+Clone the repository to your local machine:
+
+git clone https://github.com/saraaffandi-design/Customer-Order-Data-Cleaning.git
+
+Navigate to the project folder:
+
+cd Customer-Order-Data-Cleaning
+
+### 2. Install the Required Libraries
+
+Make sure Python is installed, then install the required libraries:
+
+pip install pandas numpy jupyter ydata-profiling
+
+### 3. Open the Project in VS Code
+
+Open the Jupyter Notebook:
+
+data_cleaning2.ipynb
+
+Select a Python kernel and run the notebook from the beginning.
+
+### 4. Input Data
+
+The notebook uses the raw dataset:
+
+messy_orders.csv
+
+### 5. Output
+
+After running the notebook, the cleaned dataset and data quality outputs are generated.
+
+The project includes:
+
+cleaned_orders.csv
+data_quality_exceptions.csv
